@@ -1,0 +1,1 @@
+3.5 - https://github.com/tommy-b-10/SidePilot-Public/raw/master/Solo%20Firmware/Latest/ArduCopter_35.zip
